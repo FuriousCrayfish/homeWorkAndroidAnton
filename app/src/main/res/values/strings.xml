@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="emailadress_hint">EmailAdress</string>
-    <string name="password_hint">Password</string>
-    <string name="number_hint">Number</string>
-    <string name="phone_hint">Phone</string>
-    <string name="textpersonname_hint">textPersonName</string>
-    <string name="text_hint">Text</string>
-</resources>
